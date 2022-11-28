@@ -3,7 +3,7 @@
 node_modules
 
 # ENVIRONMENT VARIABLES
-.env*
+.env
 
 # NPM 
 .npm 
