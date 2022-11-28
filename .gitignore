@@ -1,0 +1,29 @@
+
+# DEPENDENCIES
+node_modules
+
+# ENVIRONMENT VARIABLES
+.env*
+
+# NPM 
+.npm 
+package-lock.json
+yarn.lock
+
+# LOGS
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PATCHES
+patches
+
+# OSX
+.DS_Store
+
+# PACKAGED
+dist
+build
+*.zip
